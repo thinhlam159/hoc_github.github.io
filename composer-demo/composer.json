@@ -8,6 +8,6 @@
     ],
     "require": {
         "symfony/http-foundation": "4.2.12",
-        "symfony/validator": "3.4.*"
+        "symfony/validator": "5.4.*"
     }
 }
